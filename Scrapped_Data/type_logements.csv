@@ -1,4 +1,4 @@
-,Departement,Total,Part des maisons (en %),Part des appartements (en %),Part des autres types de logement (en %),Part des propriétaires (en %)
+,departement,Total,Part des maisons (en %),Part des appartements (en %),Part des autres types de logement (en %),Part des propriétaires (en %)
 0,Ain,280 734,"64,2","35,1","0,7","62,4"
 1,Aisne,231 594,"76,3","23,2","0,6","61,6"
 2,Allier,162 975,"73,7","25,5","0,7","65,1"
@@ -89,7 +89,7 @@
 87,Haute-Vienne,183 146,"65,0","34,4","0,6","62,3"
 88,Vosges,169 446,"67,0","32,5","0,5","64,3"
 89,Yonne,153 168,"76,7","22,9","0,4","67,4"
-90,Territoire de Belfort,64 329,"49,6","49,5","0,9","55,7"
+90,Territoire-de-Belfort,64 329,"49,6","49,5","0,9","55,7"
 91,Essonne,529 134,"46,7","52,1","1,2","58,3"
 92,Hauts-de-Seine,731 525,"11,6","87,0","1,4","42,9"
 93,Seine-Saint-Denis,645 422,"23,3","74,6","2,1","38,2"
@@ -100,4 +100,4 @@
 98,Martinique,167 688,"62,9","36,6","0,6","54,7"
 99,Guyane,84 454,"60,7","35,0","4,3","40,7"
 100,La Réunion,341 956,"66,3","33,1","0,6","50,4"
-101,France hors Mayotte,30 222 685,"56,2","42,9","0,9","57,5"
+101,Mayotte,30 222 685,"56,2","42,9","0,9","57,5"
