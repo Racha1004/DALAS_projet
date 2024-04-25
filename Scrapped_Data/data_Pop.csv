@@ -1,4 +1,4 @@
-Département/No/Région,Superficie [en km²],Population,Densite [hab. /km²]
+departement/code_postal/Région,Superficie [en km²],Population,Densite [hab. /km²]
 Guyane(973)[Guyane],86 504,230 000,4
 Gironde(33)[Aquitaine],10 000,1 376 000,138
 Landes(40)[Aquitaine],9 243,327 334,35
@@ -17,7 +17,7 @@ Cher(18)[Centre],7 235,314 428,43
 Maine-et-Loire(49)[Pays de la Loire],7 166,782 225,102
 Vendée(85)[Pays de la Loire],7 016,610 000,90
 Vienne(86)[Poitou-Charentes],6 990,399 024,57
-Alpes de Haute Provence(04)[Provence Alpes Côte d'Azur],6 925,153 000,22
+Alpes-de-Haute-Provence(04)[Provence Alpes Côte d'Azur],6 925,153 000,22
 Côtes-d'Armor(22)[Bretagne],6 878,569 500,82
 Charente Maritime(17)[Poitou-Charentes],6 864,557 024,81
 Morbihan(56)[Bretagne],6 823,643 873,94
@@ -72,7 +72,7 @@ Ardennes(08)[Champagne Ardenne],5 229,290 130,55
 Lot(46)[Midi-Pyrénées],5 217,168 500,32
 Mayenne(53)[Pays de la Loire],5 175,285 338,55
 Lozère(48)[Languedoc Roussillon],5 167,77 000,15
-Bouches du Rhône(13)[Provence Alpes Côte d'Azur],5 087,1 906 000,375
+Bouches-du-Rhône(13)[Provence Alpes Côte d'Azur],5 087,1 906 000,375
 Jura(39)[Franche-Comté],4 999,250 857,50
 Haute-Loire(43)[Auvergne],4 977,209 113,42
 Ariège(09)[Midi-Pyrénées],4 890,137 205,28
@@ -94,8 +94,8 @@ Essonne(91)[Île-de-France],1 804,1 188 000,659
 Guadeloupe(971)[Guadeloupe],1 800,453 000,265
 Val-d'Oise(95)[Île-de-France],1 246,1 105 464,887
 Martinique(972)[Martinique],1 128,401 000,355
-Territoire de Belfort(90)[Franche-Comté],609,137 408,225
+Territoire-de-Belfort(90)[Franche-Comté],609,137 408,225
 Val-de-Marne(94)[Île-de-France],245,1 279 000,5 220
-Seine Saint Denis(93)[Île-de-France],236,1 485 000,6 292
+Seine-Saint-Denis(93)[Île-de-France],236,1 485 000,6 292
 Hauts-de-Seine(92)[Île-de-France],176,1 517 000,8 619
 Paris(75)[Île-de-France],105,2 166 200,20 433
